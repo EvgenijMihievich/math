@@ -1,3 +1,3 @@
-module github.com/EvgenijMihievich/math2
+module github.com/EvgenijMihievich/math
 
 go 1.19
